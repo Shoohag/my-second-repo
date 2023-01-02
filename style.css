@@ -6,6 +6,9 @@ h2{
     background-color: aqua;
     display: block;
 }
+h2{
+    color: red;
+}
 
 p{
     color: lime;
